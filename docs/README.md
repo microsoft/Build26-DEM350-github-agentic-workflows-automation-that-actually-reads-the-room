@@ -13,7 +13,7 @@ To get started with the self-paced GitHub Skills exercise:
 - Exercise link: https://gh.io/gh-skills-gh-aw
 
 > [!NOTE]
-> The GitHub Skills exercise environment is self-paced and guided step-by-step in your > own consistent codespace development environment. The exercise content is designed to complement the session demo, but you can complete it at your own pace and explore the resources as you like.
+> The GitHub Skills exercise environment is self-paced and guided step-by-step in your own consistent codespace development environment. The exercise content is designed to complement the session demo, but you can complete it at your own pace and explore the resources as you like.
 
 
 ## Resources
