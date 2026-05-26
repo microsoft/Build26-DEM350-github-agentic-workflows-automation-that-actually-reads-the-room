@@ -1,16 +1,26 @@
 # /docs
 
-This folder is for documentation and step-by-step content for your session.
+## GitHub Skills Exercise Steps
 
-## What goes here
+<img width="60%" src="img/GH-Agentic-Workflows-Light-3-pres.png" alt="GitHub Agentic Workflows Exercise QR Code"/>
 
-- **Labs/Workshops**: Step-by-step instructions organized into numbered exercises (e.g., `01-setup/`, `02-first-exercise/`)
-- **Demos**: Walkthrough documentation explaining the demo code in `/src`
-- **Breakouts**: Supplementary documentation, diagrams, or reference material
+To get started with the self-paced GitHub Skills exercise:
 
-## Tips
+1. Scan the QR code or visit the link for the GitHub Skills exercise.
+1. Clone the GitHub Skills exercise repository to your GitHub username.
+1. Empower an AI agent to autonomously design and deploy a website updater workflow, synthesizing various project data to draft intelligent, context-aware pull requests.
 
-- Use numbered prefixes for ordering: `01-setup/`, `02-exercise/`, `03-wrap-up/`
-- Each subfolder can have its own `README.md` or `index.md`
-- Keep images in an `assets/` subfolder if needed
-- If your session doesn't have documentation beyond the README, feel free to remove this folder
+- Exercise link: https://gh.io/gh-skills-gh-aw
+
+> [!NOTE]
+> The GitHub Skills exercise environment is self-paced and guided step-by-step in your > own consistent codespace development environment. The exercise content is designed to complement the session demo, but you can complete it at your own pace and explore the resources as you like.
+
+
+## Resources
+
+- [GitHub Skills Exercise: Agentic Workflows That Read the Room](https://github.com/skills/agentic-workflows-that-read-the-room)
+- [GitHub Blog: Automate repository tasks with GitHub Agentic Workflows](https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/)
+- [GitHub Agentic Workflows Quick Start](https://github.github.com/gh-aw/setup/quick-start/)
+- [Creating Workflows](https://github.github.com/gh-aw/setup/creating-workflows/)
+- [CLI Reference](https://github.github.com/gh-aw/setup/cli/)
+- [GitHub Skills Exercises](https://learn.github.com/skills)

@@ -1,36 +1,4 @@
-# 🚀 Get Started
-
-**This repo is where attendees go to continue their learning after your session — and your Copilot agent will help you set it up.**
-
-### Step 1: Open your repo
-
-Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**) — or clone it locally. Then open **GitHub Copilot Chat**.
-
-### Step 2: Add your content
-
-Give the agent something to work with. Drag files into the Explorer panel — session abstracts, outlines, screenshots, notes — and drop them in one of two places:
-
-| Where to put it | What goes there | Who sees it |
-|---|---|---|
-| **`_remove-before-publish/`** | Internal reference materials (abstracts, outlines, screenshots, planning docs) | **Copilot only** — never published |
-| **`/docs/`, `/src/`, or repo root** | Lab instructions, demo code, sample data, getting-started guides | **Attendees** — published with the repo |
-
-> 💡 Not sure? Start by dropping your session abstract or outline into `_remove-before-publish/`. The agent will figure out what to do with it.
-
-### Step 3: Ask the Agent
-
-Once your content is in the repo, use these three phrases with Copilot to build out your session repo:
-
-| Phrase to use with Copilot | What it does | When to run it |
-|---|---|---|
-| **"Help me get started"** | Sets up session title, description, outcomes, and owners | After you've added your session abstract or outline to the repo |
-| **"Help me refine content"** | Organizes your session content into the repo | Each time you add or update content |
-| **"Help me finalize"** | Final review, cleanup, and publication prep | When you're ready to publish |
-
-> 💡 **These three phrases are just the starting point.** Copilot can do much more — try asking it to brainstorm next steps for attendees, generate code samples, or build out your repo structure. Don't be afraid to put it in plan mode and ask for what you need.
-
 ---
-
 <a name="start-building"></a>
 <br>
 <p align="center">
@@ -39,33 +7,38 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 DEM350 - GitHub Agentic Workflows: Automation That Actually Reads the Room
 
 ### Session Description
 
-*Add Session Description*
+GitHub Agentic Workflows let your repo improve itself. With a simple markdown file and one command, GitHub Actions launches an AI agent to triage issues, fix CI failures, update docs, and improve tests, with no complex YAML required. See a live demo from minimal workflow file to a safe, sandboxed pipeline that delivers a ready‑to‑review PR. Your repo on autopilot, with you in control.
 
-### 🏫 Getting started in a guided session
+### 🏫 Getting started with the GitHub Skills exercise
 
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
+<img width="60%" src="img/GH-Agentic-Workflows-Light-3-pres.png" alt="GitHub Agentic Workflows Exercise QR Code"/>
 
-### 🏠 Getting started in your own environment
+To get started with the self-paced GitHub Skills exercise:
 
-If you're following these steps at your own pace:
-- Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
+1. Scan the QR code or visit the link for the GitHub Skills exercise.
+1. Clone the GitHub Skills exercise repository to your GitHub username.
+1. Empower an AI agent to autonomously design and deploy a website updater workflow, synthesizing various project data to draft intelligent, context-aware pull requests.
+
+- Exercise link: https://gh.io/gh-skills-gh-aw
+
+> [!NOTE]
+> The GitHub Skills exercise environment is self-paced and guided step-by-step in your > own consistent codespace development environment. The exercise content is designed to complement the session demo, but you can complete it at your own pace and explore the resources as you like.
 
 ### 🧠 Learning Outcomes
 
+<img width="60%" src="img/GH-Agentic-Workflows-Light-1-pres.png" alt="The Three Pillars of Agentic Workflows"/>
+<img width="60%" src="img/GH-Agentic-Workflows-Light-2-pres.png" alt="GitHub Agentic Workflows GitHHub Skills Exercise"/>
+
 By the end of this session, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- **Install agentic workflow setup** — You add the repository workflow that prepares GitHub agentic workflows tooling.
+- **Create a website updater** — You draft a workflow for Mona's GitHub Info website that uses repository notes plus the GitHub Blog and GitHub Changelog, and compiles it to a `.lock.yml` workflow file.
+- **Add a new source site to the workflow** — You update the workflow to include the [awesome-copilot workflows](https://awesome-copilot.github.com/workflows/) site as a source for `.github/workflows/update-github-info.md` and recompile it.
+- **Run the agentic workflow** — You compile Mona's updater, run it, and inspect the pull request it generates.
 
 ### 💬 Keep Learning with Copilot
 
@@ -79,16 +52,37 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. Agentic workflows
+1. GitHub Copilot
+1. GitHub Actions
+1. GitHub Skills
 
 ### 📚 Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
-| [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| [GitHub Skills Exercise: Agentic Workflows That Read the Room](https://github.com/skills/agentic-workflows-that-read-the-room)| A self-paced exercise to practice designing and deploying agentic workflows in your own GitHub repository. |
+| [GitHub Blog: Automate repository tasks with GitHub Agentic Workflows](https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/)| An introduction to GitHub Agentic Workflows, with examples and best practices. |
+| [GitHub Agentic Workflows Quick Start](https://github.github.com/gh-aw/setup/quick-start/)| A guide to quickly set up your first agentic workflow. |
+| [Creating Workflows](https://github.github.com/gh-aw/setup/creating-workflows/)| Documentation on how to create and customize agentic workflows. |
+| [CLI Reference](https://github.github.com/gh-aw/setup/cli/)| Reference for the command-line interface used to manage agentic workflows. |
+| [GitHub Skills Exercises](https://learn.github.com/skills)| Explore more GitHub Skills exercises to continue learning and practicing your GitHub skills. |
 
+## Content Owners
+
+<!-- TODO: Add yourself as a content owner
+1. Change the src in the image tag to {your github url}.png
+2. Change INSERT NAME HERE to your name
+3. Change the github url in the final href to your url. -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://github.com/arilivigni">
+        <img src="https://github.com/arilivigni.png" width="100px;" alt="Arilivigni"/><br />
+        <sub><b>Arilivigni</b></sub></a><br />
+            <a href="https://github.com/arilivigni" title="talk">📢</a>
+    </td>
+</tr></table>
 
 ### 🌟 Microsoft Learn MCP Server
 
@@ -105,22 +99,6 @@ The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's 
 ```
 
 For more info, other clients, and to post questions, visit the [Learn MCP Server repo](https://aka.ms/learnmcp).
-
-## Content Owners
-
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-<table>
-<tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
-    </td>
-</tr></table>
 
 ## Contributing
 
