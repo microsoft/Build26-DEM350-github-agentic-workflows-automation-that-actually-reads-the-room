@@ -9,7 +9,7 @@
 
 ## 🔥 DEM350 - GitHub Agentic Workflows: Automation That Actually Reads the Room
 
-### Session Description
+### Demo 350 Session Description
 
 GitHub Agentic Workflows let your repo improve itself. With a simple markdown file and one command, GitHub Actions launches an AI agent to triage issues, fix CI failures, update docs, and improve tests, with no complex YAML required. See a live demo from minimal workflow file to a safe, sandboxed pipeline that delivers a ready‑to‑review PR. Your repo on autopilot, with you in control.
 
@@ -17,7 +17,7 @@ GitHub Agentic Workflows let your repo improve itself. With a simple markdown fi
 
 <img width="60%" src="img/GH-Agentic-Workflows-Light-3-pres.png" alt="GitHub Agentic Workflows Exercise QR Code"/>
 
-To get started with the self-paced GitHub Skills exercise:
+To get started with this demo using the self-paced GitHub Skills exercise:
 
 1. Scan the QR code or visit the link for the GitHub Skills exercise.
 1. Clone the GitHub Skills exercise repository to your GitHub username.
@@ -33,7 +33,7 @@ To get started with the self-paced GitHub Skills exercise:
 <img width="60%" src="img/GH-Agentic-Workflows-Light-1-pres.png" alt="The Three Pillars of Agentic Workflows"/>
 <img width="60%" src="img/GH-Agentic-Workflows-Light-2-pres.png" alt="GitHub Agentic Workflows GitHHub Skills Exercise"/>
 
-By the end of this session, you will be able to:
+By the end of this demo session, you will be able to:
 
 - **Install agentic workflow setup** — You add the repository workflow that prepares GitHub agentic workflows tooling.
 - **Create a website updater** — You draft a workflow for Mona's GitHub Info website that uses repository notes plus the GitHub Blog and GitHub Changelog, and compiles it to a `.lock.yml` workflow file.
@@ -60,11 +60,6 @@ By the end of this session, you will be able to:
 | [Build Next Steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 ## Content Owners
-
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
 
 <table>
 <tr>
