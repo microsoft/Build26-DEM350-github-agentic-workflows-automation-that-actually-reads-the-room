@@ -2,7 +2,7 @@
 
 ## GitHub Skills Exercise Steps
 
-<img width="60%" src="img/GH-Agentic-Workflows-Light-3-pres.png" alt="GitHub Agentic Workflows Exercise QR Code"/>
+<img width="60%" src="../img/GH-Agentic-Workflows-Light-3-pres.png" alt="GitHub Agentic Workflows Exercise QR Code"/>
 
 To get started with the self-paced GitHub Skills exercise:
 
