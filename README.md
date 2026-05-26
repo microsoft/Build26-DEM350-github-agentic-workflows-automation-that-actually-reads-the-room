@@ -57,7 +57,7 @@ By the end of this session, you will be able to:
 | [Creating Workflows](https://github.github.com/gh-aw/setup/creating-workflows/)| Documentation on how to create and customize agentic workflows. |
 | [CLI Reference](https://github.github.com/gh-aw/setup/cli/)| Reference for the command-line interface used to manage agentic workflows. |
 | [GitHub Skills Exercises](https://learn.github.com/skills)| Explore more GitHub Skills exercises to continue learning and practicing your GitHub skills. |
-| [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| [Build Next Steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 ## Content Owners
 
